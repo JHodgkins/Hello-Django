@@ -1,2 +1,4 @@
 # Hello Django - To Do app  
-Creating the first of many, Python and Django apps.
+A simple Python and Django To Do app, demonstrating the CRUD functions.  
+
+[View live site](https://django-python-todo-app.herokuapp.com/)  
